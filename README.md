@@ -12,6 +12,8 @@ It includes a simple structure with header, navigation, main content, and footer
 ##  Preview
 
 `<img src="preview.png" alt="Preview">`
+![Alt text](basic-portfolio-html/portfolio-preview.png)
+
 
 ##  Files
 - `index.html` – Main HTML file  
