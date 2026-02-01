@@ -17,7 +17,7 @@ It includes a simple structure with header, navigation, main content, and footer
 
 ##  Files
 - `index.html` – Main HTML file  
-- `images/` – (Optional) Folder for images 
+- `portfolio-preview` – (Optional) file for image 
 ##  Future Plans
 - Add CSS styling and responsive design  
 - Include real project links in the navigation
